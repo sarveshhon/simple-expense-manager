@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+    <string name="expense_categories">Expense Categories</string>
+    <string name="income_categories">Income Categories</string>
+    <string name="enter_category">Enter Category</string>
+    <string name="add_amp_remove_categories">Modify Categories here</string>
+    <string name="expense">Expense</string>
+    <string name="income">Income</string>
+</resources>
